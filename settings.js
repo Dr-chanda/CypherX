@@ -1,4 +1,4 @@
-//-------------------[ BOT SETTINGS ]------------------// 
+Quando //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : CypherX
 // @author : TYLOR
