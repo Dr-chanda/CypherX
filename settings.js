@@ -1,4 +1,4 @@
-//-------------------[ BOT SETTINGS ]------------------// 
+QWERTY1 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : CypherX
 // @author : TYLOR
